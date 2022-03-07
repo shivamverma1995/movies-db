@@ -8,18 +8,14 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "bbf0968a7a26c9dbe3981ea160ad2091",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "4a4bde3d4e4b06c816cbaf140c58d6f4",
-"/": "4a4bde3d4e4b06c816cbaf140c58d6f4",
-"main.dart.js": "bfcdd601a415af7ed71ba8f90c2d5d21",
+"index.html": "c50b0a1ba3988d5dac87ae1891eb88f1",
+"/": "c50b0a1ba3988d5dac87ae1891eb88f1",
+"main.dart.js": "abe47ab32c7e5fea8048fae7cc77e539",
 "manifest.json": "866e0f8f65d89008614be5c777ed8010",
 "version.json": "a0950c025f3b780f5fb162bcf5007649"
 };
@@ -27,7 +23,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  //"/",
+//  "/",
 "main.dart.js",
 "index.html",
 "assets/NOTICES",
